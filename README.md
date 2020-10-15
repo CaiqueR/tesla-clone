@@ -1,44 +1,67 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+  <a href="https://tesla-clone.vercel.app/" target="_blank">
+    <img alt="Tesla Clone" src="https://media.giphy.com/media/wCTdITyCRinYrbGGr6/giphy.gif">
+  </a>
+</p>
 
-## Available Scripts
+<p align="center">
+  <a href="https://tesla-clone.vercel.app/" target="_blank">
+    <img alt="Tesla Clone" src="https://svgshare.com/i/MKt.svg">
+  </a>
+</p>
 
-In the project directory, you can run:
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/caiquer/twitter?color=%2304D361">
 
-### `yarn start`
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/CaiqueR/twitter">
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+  <a href="https://www.linkedin.com/in/caiquer/">
+    <img alt="Made by caique" src="https://img.shields.io/badge/made%20by-Caique Ribeiro-%2304D361">
+  </a>
+	
+  
+  <a href="https://github.com/caiquer/caique-shoes/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/caiquer/twitter">
+  </a>
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+   <a href="https://github.com/caiquer/caique-shoes/twitter">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/caiquer/twitter?style=social">
+  </a>
+</p>
 
-### `yarn test`
+## 💻 Sobre o projeto
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<img height="20px" alt="GitHub last commit" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tesla_T_symbol.svg/602px-Tesla_T_symbol.svg.png"> Tesla Clone - é uma aplicação feita usando o ReactJS para tentar reproduzir um cópia da interface da Tesla.
+Essa aplicação foi feita com objetivo de aprender um pouco mais sobre Interfaces, Styled Components e Animações.
+A aplicação foi inteira desenvolvida utilizando React e Styled Components.
 
-### `yarn build`
+## 🛠 Tecnologias
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+As seguintes ferramentas foram usadas na construção do projeto:
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+- ReactJS
+- Styled Components
+- TypeScript
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🚀 Instalação e execução
 
-### `yarn eject`
+1. Faça um clone desse repositório;
+2. Entre na pasta rodando `cd tesla-clone`;
+3. Execute `yarn` ou `npm install` para instalar as dependências;
+4. Execute `yarn start` ou `npm start` para iniciar a aplicação.
+5. Acesse `http://localhost:3000` para testar
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## 🤔 Como contribuir para o projeto
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+1. Faça um **fork** do projeto.
+2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
+3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
+4. Envie as suas alterações: `git push origin my-feature`
+   > Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](https://github.com/firstcontributions/first-contributions)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## 📝 Licença
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Este projeto esta sobe a licença MIT. Veja a [LICENÇA](https://github.com/CaiqueR/tesla-clone/blob/master/LICENSE) para saber mais.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Feito com ❤️ por Caique Ribeiro 👋🏽 [Entre em contato!](https://www.linkedin.com/in/caiquer/)
