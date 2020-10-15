@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://tesla-clone.vercel.app/" target="_blank">
-    <img alt="Tesla Clone" src="https://media.giphy.com/media/wCTdITyCRinYrbGGr6/giphy.gif">
+    <img alt="Tesla Clone" src="./tesla-app.gif">
   </a>
 </p>
 
